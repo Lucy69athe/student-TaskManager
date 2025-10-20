@@ -1,4 +1,4 @@
-Taskmanager-1(hackaton repo)
+TASKMANAGER-1(hackaton repo)
 Frontend developer-Aditya Mishra
 <br>
 backend developer-Gangesh kumar
